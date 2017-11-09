@@ -1,0 +1,11 @@
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Services.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Services.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\obj\Debug\mathema_lucy-mulheresdocafe.Services.csprojResolveAssemblyReference.cache
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\obj\Debug\mathema_lucy-mulheresdocafe.Services.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\obj\Debug\mathema_lucy-mulheresdocafe.Services.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Domain.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Infra.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Domain.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\mathema_lucy-mulheresdocafe.Infra.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\EntityFramework.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Services\bin\Debug\EntityFramework.xml

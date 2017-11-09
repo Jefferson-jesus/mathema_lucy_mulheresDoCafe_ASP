@@ -1,0 +1,14 @@
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\mathema_lucy-mulheresdocafe.Infra.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\mathema_lucy-mulheresdocafe.Infra.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\obj\Debug\mathema_lucy-mulheresdocafe.Infra.csprojResolveAssemblyReference.cache
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\obj\Debug\mathema_lucy-mulheresdocafe.Infra.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\obj\Debug\mathema_lucy-mulheresdocafe.Infra.pdb
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\mathema_lucy-mulheresdocafe.Infra.dll.config
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\Dapper.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\EntityFramework.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\Dapper.xml
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\EntityFramework.xml
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\mathema_lucy-mulheresdocafe.Domain.dll
+C:\projetosFree\mathema_lucy-mulheresdocafe\mathema_lucy-mulheresdocafe.Infra\bin\Debug\mathema_lucy-mulheresdocafe.Domain.pdb
